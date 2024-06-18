@@ -1,2 +1,1 @@
 ﻿# practice-dockerization
-# practice-dockerization
